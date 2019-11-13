@@ -4,7 +4,17 @@
 This is a simple chat application that is built on NodeJS. It uses socket.io library which enables real-time, event-based communication. It shows how socket.io rooms can be used to create different chat rooms.
 This application can be run locally as well as on Cloud Foundry landscape.  
 
-### hehe
+# My Changes
+* Clone the repo.
+* Edit the manifest.yml - change the "host" to "openSAP-chat-jrs97".
+* cf login to the SAP trial env -> $ cf login -a https://api.cf.eu10.hana.ondemand.com 
+* cf push from the app's directory.
+* cf apps to get the URL.
+* Have a play.
+* cf delete <app-name> when you're done.
+
+PICCCC using relative path, delete the app
+
 
 Features:
 * Login with name, email id.
