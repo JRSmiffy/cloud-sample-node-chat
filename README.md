@@ -13,8 +13,7 @@ This application can be run locally as well as on Cloud Foundry landscape.
 * Have a play.
 * cf delete <app-name> when you're done.
 
-PICCCC using relative path, delete the app
-
+![the app running on SCP trial account](./chat.png)
 
 Features:
 * Login with name, email id.
